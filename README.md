@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/Richik-main/count.svg?"  />
 </div>
-![image](https://github.com/Richik-main/Richik-main/assets/143452995/b3c6a4bb-f1c2-459b-8a23-3ea670021274)
+
 ###
 
 <div align="center">
@@ -10,7 +10,10 @@
 </div>
 
 ###
-![image](https://github.com/Richik-main/Richik-main/assets/143452995/09f8809b-7aec-465c-aea1-b3f81b84dc58)
+
+<img src="https://raw.githubusercontent.com/Richik-main/Richik-main/output/snake.svg" alt="Snake animation" />
+
+
 
 <h3 align="center">Committed data scientist skilled in deriving actionable insights from complex datasets.</h3>
 
