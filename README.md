@@ -30,12 +30,13 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YY01DxQvf6bmdi1gtmZT1odw_i5bhreG/view?usp=sharing](https://drive.google.com/file/d/1YY01DxQvf6bmdi1gtmZT1odw_i5bhreG/view?usp=sharing)
 
-<div align="left">
-  <h1>Connect with Me</h1>
-  <a href="www.linkedin.com/in/richik-ghosh-789225189" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<div align="center">
+  <a href="https://www.linkedin.com/in/richik-ghosh-789225189/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
 
 
 
