@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Richik Ghosh</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Richik Ghosh
 <div align="center">
   <img src="https://profile-counter.glitch.me/Richik-main/count.svg?"  />
 </div>
