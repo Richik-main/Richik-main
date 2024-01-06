@@ -12,13 +12,11 @@
 ###
 
 
-<img src="https://raw.githubusercontent.com/Richik-main/Richik-main/output/snake.svg" alt="Snake animation" />
-
 
 
 <h3 align="center">Committed data scientist skilled in deriving actionable insights from complex datasets.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richik-main&label=Profile%20views&color=0e75b6&style=flat" alt="richik-main" /> </p>
+
 
 - 🔭 I’m currently working on **Sentiment Analysis**
 
