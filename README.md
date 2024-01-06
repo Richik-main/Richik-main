@@ -1,4 +1,17 @@
 <h1 align="center">Hi 👋, I'm Richik Ghosh</h1>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Richik-main/count.svg?"  />
+</div>
+![image](https://github.com/Richik-main/Richik-main/assets/143452995/b3c6a4bb-f1c2-459b-8a23-3ea670021274)
+###
+
+<div align="center">
+  <img height="200" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif"  />
+</div>
+
+###
+![image](https://github.com/Richik-main/Richik-main/assets/143452995/09f8809b-7aec-465c-aea1-b3f81b84dc58)
+
 <h3 align="center">Committed data scientist skilled in deriving actionable insights from complex datasets.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richik-main&label=Profile%20views&color=0e75b6&style=flat" alt="richik-main" /> </p>
