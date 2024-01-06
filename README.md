@@ -45,5 +45,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=richik-main&show_icons=true&locale=en&layout=compact" alt="richik-main" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=richik-main&show_icons=true&locale=en" alt="richik-main" /></p>
+###
+<img src="https://raw.githubusercontent.com/Richik-main/Richik-main/output/snake.svg" alt="Snake animation" />
 
+###
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=richik-main&" alt="richik-main" /></p>
