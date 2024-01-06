@@ -6,10 +6,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif](https://i.makeagif.com/media/4-05-2022/FvBVst.gif"  />
+  <img height="200" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"  />
 </div>
 
 ###
+
 
 <img src="https://raw.githubusercontent.com/Richik-main/Richik-main/output/snake.svg" alt="Snake animation" />
 
