@@ -20,11 +20,11 @@
 
 
 
-- 🔭 I’m currently working on **Sentiment Analysis**
+- 🔭 I’m currently working on **LLMs**
 
-- 🌱 I’m currently learning **Deployment**
+- 🌱 I’m currently learning **Self Attention**
 
-- 👯 I’m looking to collaborate on **Dashboarding**
+- 👯 I’m looking to collaborate on **End to End App development **
 
 - 💬 Ask me about **Deep Learning and NLP**
 
